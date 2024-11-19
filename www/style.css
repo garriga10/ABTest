@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Quicksand:wght@300..700&family=Viga&display=swap");
+
+.block-container {
+  padding-top: 2rem;
+}
+
+h1 {
+  font-family: "Inter";
+}
+
+h3 {
+  font-family: "Inter";
+}
